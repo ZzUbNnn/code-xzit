@@ -1,0 +1,1 @@
+/** * @param * @author Administrator * @date 2021/3/27 0027 17:04 * @throws Exception */public class test014 {    public static void main(String[] args) {        System.out.println("This is a simple problem.");    }}

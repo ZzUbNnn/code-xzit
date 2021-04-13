@@ -1,0 +1,1 @@
+import java.util.Scanner;/** * @param * @author Administrator * @date 2021/4/12 0012 20:32 * @throws Exception */public class l1_51 {    public static void main(String[] args) {        Scanner sc = new Scanner(System.in);        int n =sc.nextInt();        int m =sc.nextInt();        float x = (float) (n*m*1.0*0.1);        System.out.printf("%.2f",x);    }}

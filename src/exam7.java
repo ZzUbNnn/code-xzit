@@ -1,0 +1,1 @@
+import java.sql.SQLOutput;/** * @param * @author Administrator * @date 2021/3/31 0031 19:27 * @throws Exception */public class exam7 {    public static void main(String[] args) {        String c ="I Love GPLT";        for(int i=0;i<c.length();i++){            System.out.println(c.charAt(i));        }    }}

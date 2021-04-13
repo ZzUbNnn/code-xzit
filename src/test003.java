@@ -1,0 +1,1 @@
+import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;/** * @param * @author Administrator * @date 2021/3/26 0026 19:20 * @throws Exception */public class test003 {    public static void main(String[] args) {       int c,f=100;       c=5*(f-32)/9;       System.out.printf("fahr = %d, celsius = %d",f,c);    }}

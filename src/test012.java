@@ -1,0 +1,1 @@
+import java.util.Scanner;/** * @param * @author Administrator * @date 2021/3/27 0027 16:52 * @throws Exception */public class test012 {    public static void main(String[] args) {        Scanner sc = new Scanner(System.in);        int n =sc.nextInt();        System.out.println("2^"+n+" = "+(int)Math.pow(2,n));    }}

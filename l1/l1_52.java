@@ -1,0 +1,1 @@
+/** * @param * @author Administrator * @date 2021/4/12 0012 20:37 * @throws Exception */public class l1_52 {    public static void main(String[] args) {        System.out.println("2018");        System.out.println("wo3 men2 yao4 ying2 !");    }}
